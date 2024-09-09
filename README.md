@@ -51,5 +51,11 @@ Top Rock Artists: Retrieved the top 10 artists with the most rock tracks.
 Long Tracks: Listed tracks that are longer than the average song length.
 
 Customer Spending on Artists: Calculated the amount each customer spent on a specific artist.
+
 Popular Music Genre by Country: Determined the most popular genre for each country.
+
 Top Spending Customers by Country: Identified the highest-spending customer in each country.
+
+Insights and Conclusions
+
+The analysis provided a deep dive into customer behavior, popular artists, and revenue generation across different regions. By understanding these patterns, the music store can tailor its marketing and inventory strategies to maximize profits.
