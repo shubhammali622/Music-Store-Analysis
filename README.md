@@ -1,10 +1,10 @@
 # Music-Store-Analysis
 
-- Project Overview:
+## Project Overview
 
 This project involves analyzing a music store database using PostgreSQL. The analysis aims to uncover insights such as top-selling artists, best customers, and popular genres across different countries. The queries explore various aspects of the store's data, providing valuable information for business decisions.
 
-- Database Structure
+## Database Structure
 
 The database consists of the following tables:
 
@@ -30,7 +30,7 @@ playlist_track: Associates tracks with playlists.
 
 track: Contains information about individual music tracks.
 
-- SQL Queries Performed
+## SQL Queries Performed
 
 The following key SQL queries were executed:
 
@@ -56,6 +56,6 @@ Popular Music Genre by Country: Determined the most popular genre for each count
 
 Top Spending Customers by Country: Identified the highest-spending customer in each country.
 
-- Insights and Conclusions
+## Insights and Conclusions
 
 The analysis provided a deep dive into customer behavior, popular artists, and revenue generation across different regions. By understanding these patterns, the music store can tailor its marketing and inventory strategies to maximize profits.
